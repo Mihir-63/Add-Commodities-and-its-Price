@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Add%20Commodities%20and%20its%20Price/static/css/main.b9b1c46c.chunk.css",
+    "main.js": "/Add%20Commodities%20and%20its%20Price/static/js/main.af2f0661.chunk.js",
+    "main.js.map": "/Add%20Commodities%20and%20its%20Price/static/js/main.af2f0661.chunk.js.map",
+    "runtime-main.js": "/Add%20Commodities%20and%20its%20Price/static/js/runtime-main.a83b13bc.js",
+    "runtime-main.js.map": "/Add%20Commodities%20and%20its%20Price/static/js/runtime-main.a83b13bc.js.map",
+    "static/js/2.b97e4eca.chunk.js": "/Add%20Commodities%20and%20its%20Price/static/js/2.b97e4eca.chunk.js",
+    "static/js/2.b97e4eca.chunk.js.map": "/Add%20Commodities%20and%20its%20Price/static/js/2.b97e4eca.chunk.js.map",
+    "index.html": "/Add%20Commodities%20and%20its%20Price/index.html",
+    "static/css/main.b9b1c46c.chunk.css.map": "/Add%20Commodities%20and%20its%20Price/static/css/main.b9b1c46c.chunk.css.map",
+    "static/js/2.b97e4eca.chunk.js.LICENSE.txt": "/Add%20Commodities%20and%20its%20Price/static/js/2.b97e4eca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a83b13bc.js",
+    "static/js/2.b97e4eca.chunk.js",
+    "static/css/main.b9b1c46c.chunk.css",
+    "static/js/main.af2f0661.chunk.js"
+  ]
+}
