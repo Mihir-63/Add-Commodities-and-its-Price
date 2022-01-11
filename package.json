@@ -1,7 +1,7 @@
 {
   "name": "react-complete-guide",
   "version": "0.1.0",
-  "homepage": "https://Mihir-63.github.io/Add Commodities and its Price",
+  "homepage": "https://Mihir-63.github.io/Add-Commodities-and-its-Price",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
